@@ -82,13 +82,17 @@ nav {
   background-color: #d7d4ed;
   position: fixed;
   top: 0;
-  right: 0;
+  right: -26rem; /* in order to start outside*/
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   z-index: 10;
   transition: all 650ms ease-in-out;
+}
+
+.nav-list.active {
+  right: 0;
 }
 
 .close {
