@@ -38,3 +38,16 @@ section {
 body {
   background-color: cornflowerblue;
 }
+
+/* header */
+header {
+  width: 100%;
+  height: 5rem;
+}
+
+.container {
+  width: 100%;
+  max-width: 98rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
