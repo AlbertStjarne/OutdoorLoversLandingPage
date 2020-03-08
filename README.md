@@ -10,19 +10,7 @@ Media queries have been added for different min-width:s.
 
 Mobile
 
-<img src="README-images/mobile.gif" width=550>
-
-Overlay area
-
-<img src="overlay-area.png" width=600>
-
-Images & Footer
-
-<img src="images-and-footer.png" width=600>
-
-Image viewing carousell
-
-<img src="image-viewing.png" width=600>
+<img src="README-images/mobile.gif" width=400>
 
 ## Author
 
