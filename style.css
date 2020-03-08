@@ -410,3 +410,22 @@ footer {
     font-size: 2.5rem;
   }
 }
+
+@media screen and (min-width: 950px) {
+  .hero::before {
+    height: 22.7rem;
+    background: url('images/wave-large.png');
+    background-size: cover;
+  }
+  .testimonials::before {
+    height: 22.7rem;
+    background: url('images/wave-large-reversed.png');
+    background-size: cover;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .hero {
+    height: 75vh;
+  }
+}
